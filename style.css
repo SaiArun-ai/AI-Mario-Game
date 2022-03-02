@@ -14,3 +14,13 @@
 .BIGIMG{
     width: 100%;
 }
+footer{
+    background-color: white;
+}
+.modal-dialog{
+    width: 95%;
+}
+.instruction-page{
+    display: inline block;
+    width: 40%;
+}
